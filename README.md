@@ -42,7 +42,7 @@ A HeroPower belongs to a Hero and belongs to a Power.
 And the ERD Diagram will look like this:
 
 ```ruby
-![ERD Diagram](rdbms.png)
+![ERD Diagram](/rdbms.png)
 
 ```
 
