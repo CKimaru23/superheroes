@@ -42,8 +42,8 @@ A HeroPower belongs to a Hero and belongs to a Power.
 And the ERD Diagram will look like this:
 
 ```ruby
-![ERD Diagram](./rdbms.png)
 
+ /home/moringa/Development/code/phase-4/superheroes/rdbms.png
 
 ```
 
